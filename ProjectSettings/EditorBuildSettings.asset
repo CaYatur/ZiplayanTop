@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Baslama.unity
+    guid: b6d0fc6fe0305a743bf8be6ddbd856b9
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: e6d60ac76f2d23c41a0102e6bef42b65
+  m_configObjects: {}
