@@ -17,4 +17,4 @@ Depodan çıkarılan üçüncü taraf içerik (lisans gereği): TextMeshPro örn
 
 ---
 
-Çağan Turgut · [caganturgut.com](https://caganturgut.com) · [GitHub](https://github.com/CaYatur)
+Çağan Turgut · [GitHub](https://github.com/CaYatur)
